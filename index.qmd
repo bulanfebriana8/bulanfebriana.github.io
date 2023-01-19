@@ -10,7 +10,7 @@ format:
 editor: visual
 ---
 
-![logo APP muncul secara random lalalala](poltekapp.jpg)
+![](poltekapp.jpg)
 
 ## Pendahuluan
 
