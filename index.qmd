@@ -1,8 +1,8 @@
 ---
-title: "Melihat hubungan ekspor dan nilai tukar"
-subtitle: "Analisis Pengaruh Ekspor Kopi ke Negara Amerika Serikat terhadap Nilai Tukar Rupiah Pada Tahun 2012-2021"
+title: "Analisis Pengaruh Ekspor Kopi ke Negara Amerika Serikat terhadap Nilai Tukar Rupiah Pada Tahun 2012-2021"
+subtitle: "Metodologi Penelitian"
 author: "Bulan Febriana"
-date: 2023-14-10
+date: 2023-01-14
 number-sections: true
 format:
   html: default
